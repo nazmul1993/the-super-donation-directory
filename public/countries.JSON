@@ -1,0 +1,183 @@
+[
+  {
+    "key": "1",
+    "country": "Algeria",
+    "infected": "202574",
+    "img": "images/dz.svg",
+    "recovered": "20435",
+    "deceased": "4535",
+    "cost": 155656
+  },
+  {
+    "key": "2",
+    "country": "Austria",
+    "infected": "345334",
+    "img": "images/at.svg",
+    "recovered": "34533",
+    "deceased": "3453",
+    "cost": 216555
+  },
+  {
+    "key": "3",
+    "country": "Azerbaijan",
+    "infected": "34534",
+    "img": "images/az.svg",
+    "recovered": "3453",
+    "deceased": "34534a",
+    "cost": 1256756
+  },
+  {
+    "key": "4",
+    "country": "Bahrain",
+    "infected": "435345",
+    "img": "images/bh.svg",
+    "recovered": "34534",
+    "deceased": "43543",
+    "cost": 11567657
+  },
+  {
+    "key": "5",
+    "country": "Belgium",
+    "infected": "34534",
+    "img": "images/be.svg",
+    "recovered": "3453",
+    "deceased": "345345",
+    "cost": 155657
+  },
+  {
+    "key": "6",
+    "country": "Brazil",
+    "infected": "34534",
+    "img": "images/br.svg",
+    "recovered": "3453",
+    "deceased": "3453445",
+    "cost": 10565
+  },
+  {
+    "key": "7",
+    "country": "Bulgaria",
+    "infected": "3453a",
+    "img": "images/bg.svg",
+    "recovered": "3453",
+    "deceased": "34534",
+    "cost": 225675756
+  },
+  {
+    "key": "8",
+    "country": "Canada",
+    "infected": "34534",
+    "img": "images/ca.svg",
+    "recovered": "234534",
+    "deceased": "34534",
+    "cost": 1856756
+  },
+  {
+    "key": "9",
+    "country": "China",
+    "infected": "345334",
+    "img": "images/cn.svg",
+    "recovered": "345",
+    "deceased": "3453",
+    "cost": 6567567
+  },
+  {
+    "key": "10",
+    "country": "Czech Republic",
+    "infected": "34534",
+    "img": "images/dk.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 2656756
+  },
+  {
+    "key": "11",
+    "country": "Denmark",
+    "infected": "43534",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  },
+  {
+    "key": "12",
+    "country": "Denmark",
+    "infected": "43534",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "345434",
+    "cost": 245756
+  },
+  {
+    "key": "13",
+    "country": "Denmark",
+    "infected": "435634",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  },
+  {
+    "key": "14",
+    "country": "Denmark",
+    "infected": "43534",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  },
+  {
+    "key": "15",
+    "country": "Denmark",
+    "infected": "43534",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  },
+  {
+    "key": "16",
+    "country": "Denmark",
+    "infected": "43534",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "374534",
+    "cost": 245756
+  },
+  {
+    "key": "17",
+    "country": "Denmark",
+    "infected": "3534",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  },
+  {
+    "key": "18",
+    "country": "Denmark",
+    "infected": "4334",
+    "img": "images/br.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  },
+  {
+    "key": "19",
+    "country": "Denmark",
+    "infected": "4334",
+    "img": "images/fi.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  },
+  {
+    "key": "20",
+    "country": "Denmark",
+    "infected": "435634",
+    "img": "images/br.svg",
+    "recovered": "34534",
+    "deceased": "34534",
+    "cost": 245756
+  }
+
+]

@@ -1,0 +1,13 @@
+.grid{
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+}
+.vaccine-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.donation-container{
+    border-left:1px solid lightgray;
+    padding-left: 20px;
+    margin-right:50px;
+}

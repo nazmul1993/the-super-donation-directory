@@ -1,0 +1,33 @@
+.grid{
+    display: grid;
+    grid-template-columns: repeat(3px, 1fr);
+}
+.country{
+    background-color: rgb(247, 234, 196);
+    border: 1px solid rgba(80, 124, 104, 0.125);
+    border-radius: 10px;
+    width: 200px;
+    margin: 30px;
+    padding: 30px;
+
+}
+.button{
+    font-weight: bolder;
+    background-color: goldenrod;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    border: 1px solid(236, 184,153);
+
+}
+.image{
+    width: 100%;
+    height: 150px;
+    border-radius: 30%;
+}
+.conatiner{
+    display: flex;
+    flex-direction: column;
+}
